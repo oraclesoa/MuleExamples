@@ -1,1 +1,3 @@
 apidev-basic-authentication - To enable mule api with basic username/password authentication
+apidev-basic-security	- To invoke the service with username/password
+apidev-security-integrations - To invoke the service with oauth token
