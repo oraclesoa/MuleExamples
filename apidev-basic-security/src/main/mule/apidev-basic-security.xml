@@ -11,7 +11,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 	<http:request-config name="HTTP_Request_configuration" doc:name="HTTP Request configuration" doc:id="6642bec9-60b6-4dd1-911f-c748330c4309" >
 		<http:request-connection protocol="HTTPS" host="api.github.com" port="443" >
 			<http:authentication >
-				<http:basic-authentication username="add username" password="add password" />
+				<http:basic-authentication username="add username" password="add password " />
 			</http:authentication>
 		</http:request-connection>
 	</http:request-config>
