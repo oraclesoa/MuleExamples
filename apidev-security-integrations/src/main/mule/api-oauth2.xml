@@ -15,8 +15,8 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 			<http:authentication>
 
 				<oauth:authorization-code-grant-type
-					clientId="a5954197e10a06cd0059" 
-					clientSecret="5064c44a012ec832149a5d49256a382d895f2f15"
+					clientId="add client id" 
+					clientSecret="add client secret"
 					localCallbackUrl="http://localhost:8082/callback"
 					authorizationUrl="https://github.com/login/oauth/authorize"
 					localAuthorizationUrl="http://localhost:8082/login" 
