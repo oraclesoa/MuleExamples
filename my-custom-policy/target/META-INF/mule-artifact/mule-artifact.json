@@ -1,0 +1,24 @@
+{
+  "configs": [
+    "template.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "my.org.pol:my-custom-policy:1.0.0-SNAPSHOT",
+  "minMuleVersion": "4.1.1",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {
+      "groupId": "my.org.pol",
+      "classifier": "mule-policy",
+      "artifactId": "my-custom-policy",
+      "type": "jar",
+      "version": "1.0.0-SNAPSHOT"
+    }
+  }
+}
