@@ -10,8 +10,8 @@
 	<servers>
 		<server>
 			<id>archetype-repository</id>
-			<username>itsmyapi1218</username>
-			<password>Yashvin@2011</password>
+			<username>username</username>
+			<password>Password</password>
 		</server>
 	</servers>
 	<mirrors>
